@@ -2,22 +2,22 @@ export const Users = [
     {
       id:1,
       profilePicture: "assets/person/1.jpeg",
-      username: "Safak Kocaoglu",
+      username: "Saiful Ajom Khan",
     },
     {
       id:2,
       profilePicture: "assets/person/2.jpeg",
-      username: "Janell Shrum",
+      username: "Ajom Khan",
     },
     {
       id:3,
       profilePicture: "assets/person/3.jpeg",
-      username: "Alex Durden",
+      username: "Ibrahim Sarif",
     },
     {
       id:4,
       profilePicture: "assets/person/4.jpeg",
-      username: "Dora Hawks",
+      username: "Kajal Mia",
     },
     {
       id:5,
@@ -54,7 +54,7 @@ export const Users = [
   export const Posts = [
     {
       id: 1,
-      desc: "Love For All, Hatred For None.",
+      desc: "Capture a beautiful nature with me.",
       photo: "assets/post/1.jpeg",
       date: "5 mins ago",
       userId: 1,
@@ -63,6 +63,7 @@ export const Users = [
     },
     {
       id: 2,
+      desc: "Beautiful duck for ever is see",
       photo: "assets/post/2.jpeg",
       date: "15 mins ago",
       userId: 2,

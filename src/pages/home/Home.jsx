@@ -15,7 +15,6 @@ const Home = () => {
           <Sidebar />
           <Feed />
           <Rightbar />
-
         </div>
     </>
   )
