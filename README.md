@@ -2,11 +2,11 @@
 
 ### Go to Live Project: https://social-media-app1-react.netlify.app/
 
-##### I highly recoment you to use Tailwinedcss or Bootstrap with Reactjs or Nextjs as a professional.
+### I highly recoment you to use Tailwinedcss or Bootstrap with Reactjs or Nextjs as a professional.
 
-##### I haven't use any style framework (Tailwinedcss or Bootstrap) here due to css practic purpose.
+### I haven't use any style framework (Tailwinedcss or Bootstrap) here due to css practic purpose.
 
-### What I use here:
+#### What I use here:
 * React
 * React-icons
 
