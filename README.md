@@ -2,6 +2,8 @@
 
 ### Go to Live Project: https://social-media-app1-react.netlify.app/
 
+![CHEESE!](app-image.jpeg)
+
 #### I highly recoment you to use Tailwinedcss or Bootstrap with Reactjs or Nextjs as a professional.
 
 #### I haven't use any style framework (Tailwinedcss or Bootstrap) here due to css practic purpose.
