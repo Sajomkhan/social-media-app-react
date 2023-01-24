@@ -2,10 +2,6 @@
 
 ### Go to Live Project: https://social-media-app1-react.netlify.app/
 
-
-
-![alt text][(http://url](https://social-media-app1-react.netlify.app/to/img.png)
-
 #### I highly recoment you to use Tailwinedcss or Bootstrap with Reactjs or Nextjs as a professional.
 
 #### I haven't use any style framework (Tailwinedcss or Bootstrap) here due to css practic purpose.
